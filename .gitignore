@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+*.log
+storage/logs/*
+server/storage/logs/*
+!storage/logs/.gitkeep
+!server/storage/logs/.gitkeep
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
